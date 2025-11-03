@@ -3,12 +3,28 @@
     {
       "id": "1",
       "challenge": "48656C6C6F576F726C64",
-      "expected": "3C9B15A5"
+      "expected": "3C9B15A5",
+      "difficulty": "easy"
     },
     {
       "id": "2", 
       "challenge": "4C6963656E736556616C6964",
-      "expected": "7F2A8E91"
+      "expected": "7F2A8E91",
+      "difficulty": "medium"
+    },
+    {
+      "id": "3",
+      "challenge": "5365637572654170706C69636174696F6E",
+      "expected": "A1B2C3D4",
+      "difficulty": "hard"
+    },
+    {
+      "id": "4",
+      "challenge": "416E74694372616B657253797374656D",
+      "expected": "DEADBEEF",
+      "difficulty": "nightmare"
     }
-  ]
+  ],
+  "algorithm": "custom_hash_v2",
+  "salt": "PROTECTION_SALT_2024"
 }
