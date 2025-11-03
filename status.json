@@ -1,9 +1,21 @@
 {
-  "valid_licenses": [
-    "XXX-XXX-XXX-XXX",
-    "TEK-TEK-DENE-BULURSUN", 
-    "PIRACY-IS-ILLEGAL-2024",
-    "SECURE-LICENSE-2024",
-    "PEPS-REAL-CC-2025"
-  ]
+  "server_status": "online",
+  "uptime_hours": 99999,
+  "maintenance": false,
+  "last_updated": "2024-11-03T22:00:00Z",
+  "api_version": "2.0",
+  "endpoints": {
+    "validate": "/license-db/validate.json",
+    "challenge": "/license-db/challenge.json",
+    "status": "/license-db/status.json"
+  },
+  "rate_limit": {
+    "requests_per_minute": 60,
+    "burst_limit": 10
+  },
+  "security": {
+    "encryption": "AES-256",
+    "anti_tampering": true,
+    "cracker_detection": true
+  }
 }
