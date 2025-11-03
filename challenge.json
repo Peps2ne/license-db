@@ -1,9 +1,14 @@
 {
-  "valid_licenses": [
-    "XXX-XXX-XXX-XXX",
-    "TEK-TEK-DENE-BULURSUN", 
-    "PIRACY-IS-ILLEGAL-2024",
-    "SECURE-LICENSE-2024",
-    "PEPS-REAL-CC-2025"
+  "challenges": [
+    {
+      "id": "1",
+      "challenge": "48656C6C6F576F726C64",
+      "expected": "3C9B15A5"
+    },
+    {
+      "id": "2", 
+      "challenge": "4C6963656E736556616C6964",
+      "expected": "7F2A8E91"
+    }
   ]
 }
