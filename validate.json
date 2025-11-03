@@ -4,11 +4,14 @@
   "timestamp": "2024-11-03T22:00:00Z",
   "server_version": "2.0",
   "valid_licenses": [
-    "XXX-XXX-XXX-XXX",
-    "TEK-TEK-DENE-BULURSUN", 
-    "PIRACY-IS-ILLEGAL-2024",
     "SECURE-LICENSE-2024",
-    "PEPS-REAL-CC-2025"
+    "PREMIUM-USER-2024", 
+    "GITHUB-DEMO-KEY",
+    "PUBLIC-TEST-LICENSE",
+    "FAKE-VALIDATION-KEY",
+    "TROLL-LICENSE-2024",
+    "BUY-ORIGINAL-SOFTWARE",
+    "PIRACY-IS-ILLEGAL"
   ],
   "server_key": "4A7B2C8F9E1D3A5B",
   "encryption_enabled": true
